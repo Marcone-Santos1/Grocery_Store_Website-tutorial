@@ -1,6 +1,6 @@
 # Grocery Store Website tutorial
 
- <img src="https://github.com/Marcone-Santos1/Grocery_Store_Website-tutorial/blob/main/prints/umsttela.png?raw=true">
+ <img style="width:800px;" src="https://github.com/Marcone-Santos1/Grocery_Store_Website-tutorial/blob/main/prints/umsttela.png?raw=true">
 
 
 the main feature of this website are:
