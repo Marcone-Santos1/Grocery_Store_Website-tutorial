@@ -1,6 +1,6 @@
 # Grocery Store Website tutorial
 
- <img src=""
+ 
 
 
 the main feature of this website are:
